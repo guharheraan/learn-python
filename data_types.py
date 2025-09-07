@@ -96,9 +96,11 @@ but once its assigned to a variable it works as the <pre> tag in the html.
 # the values of a dictionary can be accessed by their key  name.
 # ditionaries can store all datatypes  including lists and tuples inside them.
 
-# class_mates = {"regno":1910001,"name":"guhar","semester": 6,"pass":True}
-# print(class_mates["name"])
-# print(class_mates.values())
+class_mates = {"regno":1910001,"name":"guhar","semester": 6,"pass":True}
+
+print(class_mates["name"])
+
+print(class_mates)
 
 
 
